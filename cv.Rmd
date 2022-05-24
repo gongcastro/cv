@@ -8,26 +8,21 @@ date: "`r format(Sys.Date(), '%d/%m/%Y')`"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{=tex}
-\begin{center}
+[gonzalo.garciadecastro@upf.edu](mailto:gonzalo.garciadecastro@upf.edu)
 
-![](github.png)
+**ORCID**: [0000-0002-8553-4209](https://orcid.org/0000-0002-8553-4209)
 
-![](img/twitter.png)
+**Adress**
+Edifici Mercè Rodoreda, 24.300
+Ramon Trias Fargas, 25-27, 08005 Barcelona, Spain
 
-![](img/osf.png){width=50px}
 
-![](img/orcid.png){width=50px}
-
-\end{center}
-```
 ## Education
 
-**2018--now**: *PhD in Biomedicine*. Universitat Pompeu Fabra (Barcelona, Spain). Supervisor: Prof. Nuria Sebastian-Galles \newline
 
-**2017-2018**: *MSc in Neuroscience*. Universitat de Barcelona (Barcelona, Spain). \newline
+**2017--2018**: *MSc in Neuroscience*. Universitat de Barcelona (Barcelona, Spain). \newline
 
-**2013-2017**: *BSc in Psychology*. Universidad de Oviedo (Oviedo, Spain) \newline
+**2013--2017**: *BSc in Psychology*. Universidad de Oviedo (Oviedo, Spain) \newline
 
 ## Publications
 
@@ -38,9 +33,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 \noindent
 
-Sampedro-Piquero, P., Álvarez-Suárez, P., Moreno-Fernández, R. D., **García-Castro, G.**, Cuesta, M., & Begega, A. (2018). Environmental enrichment results in both brain connectivity efficiency and selective improvement in different behavioral tasks. *Neuroscience*, 388, 374-383.
 
 Santolin, C., **Garcia‐Castro, G.**, Zettersten, M., Sebastian‐Galles, N., & Saffran, J. R. (2020). Experience with research paradigms relates to infants' direction of preference. *Infancy*.
+
+Sampedro-Piquero, P., Álvarez-Suárez, P., Moreno-Fernández, R. D., **García-Castro, G.**, Cuesta, M., & Begega, A. (2018). Environmental enrichment results in both brain connectivity efficiency and selective improvement in different behavioral tasks. *Neuroscience*, 388, 374-383.
+
 
 ```{=tex}
 \setlength{\parindent}{0in}
@@ -55,16 +52,68 @@ Santolin, C., **Garcia‐Castro, G.**, Zettersten, M., Sebastian‐Galles, N., &
 ```
 \noindent
 
-**García-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, Kim (June, 2021). The role of cognateness in nonnative spoken word recognition. Poster presented at the *XI International Symposium of Psycholinguistics* (Madrid, Spain, held online).
+**Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N., and Plunkett, K. (March, 2022). The role of cognateness during word recognition in a non-native language. Talk given at the *Psycholinguistics Coffee* (University of Edinburgh, held online).
 
-**García-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, Kim (July, 2020). The role of lexical similarity on bilingual parallel activation: A priming study in toddlers. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+**Garcia-Castro, G.**, Siow, S., Lepadatu, I., Guillen, N., Avila-Varela, D., Sebastian-Galles, N. y Plunkett, K. (January 2022). Parallel activation and the developing bilingual lexicon: a longitudinal study on word recognition. Talk given at the LACRE research group (Cardiff University, held online).
 
-**García-Castro, G.**, Avila-Varela, D., and Sebastian-Galles, N. (July, 2020). Does phonological overlap across translation equivalents predict earlier age of acquisition?. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+Siow, S., Gillen, N., Lepadatu, I., **Garcia-Castro, G.**, Avila-Varela, D., Sebastian-Galles, N., and Plunkett, K. (November, 2021). The effect of cognates on bilingual infant vocabulary trajectories: a study using bilingual CDIs of English and one additional language. Oral communication presented at th *Boston University Conference on Language Development* (Boston, United States, held online)
 
-Siow, S., **García-Castro, G.**, Sebastian-Galles, N., and Plunkett, K. (August, 2019). The impact of phonology (cognateness) on the bilingual lexicon: Parallel cross-language phonological priming. Poster presented at the *Lancaster Conference on Infant and Early Child Development* (Lancaster, United Kingdom).
+Siow, S., **Garcia-Castro, G.**, Sebastian-Galles, N., and Plunkett, K. (September, 2021). An alternative approach to defining cross-linguistic phonological similarity using a mode of monolingual speech recognition. Oral communication presented at *Architectures and Mechanisms for Language Processing* (Paris, France, held online).
 
-**García-Castro, G.**, Marimon, M., Santolin, C., and Sebastian-Galles, N. (June, 2019). Encoding new word forms when contrastive phonemes are interchanged: A preliminary study on 8-month-old infants. Poster presented at the *Workshop in Infant Language Development* (Potsdam, Germany). <https://doi.org/10.17605/OSF.IO/GYKUH>
+**Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, K. (August, 2021). The impact of cognateness on bilingual lexical access: a longitudinal priming study. Poster presented at the *Lancaster Conference of Infancy and Child Development* (Lancaster, United Kingdom, held online).
+
+Siow, S., Guillen, N., Lepadatu, I., Avila-Varela, D., **García-Castro, G.**, Sebastian-Galles, N. and Plunkett, K. (August, 2021). A study of linguistic distance and infant vocabulary trajectories using bilingual CDIs of English and one additional language. Poster presented at the *Lancaster Conference of Infancy and Child Development* (Lancaster, United Kingdom, held online).
+
+**Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, K. (June, 2021). The role of cognateness in nonnative spoken word recognition. Poster presented at the *XI International Symposium of Psycholinguistics* (Madrid, Spain, held online).
+
+Siow, S., **Garcia-Castro, G.**, Sebastian-Galles, N., and Plunkett, K. (August, 2020). Phoneme-weighted Levenshtein Distance: A Measure of Cross-linguistic Phonological Similarity. Poster presented at the *Lancaster Conference of Infancy and Child Development* (Lancaster, United Kingdom, held online).
+
+**Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, Kim (July, 2020). The role of lexical similarity on bilingual parallel activation: A priming study in toddlers. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+
+**Garcia-Castro, G.**, Avila-Varela, D., and Sebastian-Galles, N. (July, 2020). Does phonological overlap across translation equivalents predict earlier age of acquisition?. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+
+Siow, S., **Garcia-Castro, G.**, Sebastian-Galles, N., and Plunkett, K. (August, 2019). The impact of phonology (cognateness) on the bilingual lexicon: Parallel cross-language phonological priming. Poster presented at the *Lancaster Conference on Infant and Early Child Development* (Lancaster, United Kingdom).
+
+**Garcia-Castro, G.**, Marimon, M., Santolin, C., and Sebastian-Galles, N. (June, 2019). Encoding new word forms when contrastive phonemes are interchanged: A preliminary study on 8-month-old infants. Poster presented at the *Workshop in Infant Language Development* (Potsdam, Germany). <https://doi.org/10.17605/OSF.IO/GYKUH>
 
 **García-Castro, G.**, Álvarez-Suárez, P., García-Abad, N., Cuesta, M., and Begega, A. (June, 2017). Pro-cognitive effects of environmental enrichment on attention and spatial memory: hippocampal metabolic activity in a Wistar rat model. Poster presented at the *4th International Congress on Health and Aging Research* (Murcia, Spain).
 
-García-Abad, N., Santirso, M., **García-Castro, G.**, and Álvarez-Suárez, P. (June, 2017). Efectos del omega-3 en las redes implicadas en la memoria de trabajo espacial en ratas Wistar. Poster presented at the *3rd National Congress of Psychology* (Oviedo, Spain)
+García-Abad, N., Santirso, M., **García-Castro, G.**, and Álvarez-Suárez, P. (June, 2017). Efectos del omega-3 en las redes implicadas en la memoria de trabajo espacial en ratas Wistar. Poster presented at the *3rd National Congress of Psychology* 
+
+
+# Software development
+
+
+```{=tex}
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+```
+\noindent
+
+**Garcia-Castro, G.** (2022). multilex: A R package for multilingual lexical assessment using online surveys. https://github.com/gongcastro/multilex
+
+
+# Reviewing
+
+* Behavioral Research Methods (since 2021)
+
+
+# Skills
+
+* **Software**:
+    - R: Tidyverse, development of R packages, `targets`
+    - Python and Julia: data processing, analysis and visualisation 
+    - Stan: Bayesian statistical modelling
+    - Git/GitHub, MATLAB, SQL, Docker, JASP, SPSS, bash/Linux
+* **Reproducible reports**: Rmarkdown, Shiny, blogdown, `papaja`, GitHub Pages
+* **Data collection**: PsychoPy, eye-tracking, formR, PsychToolbox, WISC (Head-turn preference)
+* **Data analysis**:
+    - Bayesian inference (`brms`, `cmdstanr`)
+    - Multilevel/mixed/hierarchical models (`brms`, `lme4`)
+    - Generalised linear models (binomial regression, ordinal/multinomial regression, Poisson, Gamma, etc.)
+    - Item response theory (`brms`)
+* **Acoustic analysis and processing**: Praat, Audacity, Phonological Corpus Tools
+
+
+
