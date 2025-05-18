@@ -1,0 +1,190 @@
+---
+title: Gonzalo García-Castro
+date: last-modified
+date-modified: full
+format: typst
+output-file: cv.pdf
+pdf-engine: lualatex
+linkcolor: blue
+abstract-title: ""
+
+abstract: |
+    **Post-doctoral researcher**, *Institut de Recerca Sant Joan de Déu*.
+    
+    I am a cognitive scientist interested in the application of Bayesian modelling in the investigation of early language acquisition and its evolutionary roots. I am currently working as a post-doctoral researcher at the Institut de Rercerca Sant Joan de Déu (Barcelona, Spain), were I use brain imaging (fNIRS), behavioural, and computational techniques to study how newborns, infants, and non-human animals (Long-Evans rats) perceive and process speech.
+---
+
+# Contact details
+
+* *E-mail*: {{< fa envelope >}}: [gonzalo.garcia@sjd.es](mailto:gonzalo.garcia@sjd.es) | [gongarciacastro@gmail.com](mailto:gongarciacastro@gmail.com)
+* *GitHub* {{< fa fa-brands github >}}: [\@gongcastro](https://github.com/gongcastro)
+* *Bluesky*: [\@gongcastro](https://bsky.app/profile/gongcastro.bsky.social)
+* *ORCID* {{< ai orcid >}}: [0000-0002-8553-4209](https://orcid.org/0000-0002-8553-4209)
+
+
+# Experience
+
+*September 2024 -- Present*
+
+**Post-doctoral researcher** at the Neurodevelopment and Comparative Cognition (NeuroDevCo) research group at Institut de Recerca Sant Joan de Déu (Barcelona, Spain).
+
+- *Funding*: ERC StG GALA 2023 (Gates to Language) awarded to Dr. Chiara Santolin.
+- Investigating the the role of linguistic universals as a mechanisms for syllable identification in neonates and infants.
+- Leading of fNIRS studies with neonates at the Àrea de la Dona at Hospital Sant Joan de Déu.
+- Collaborating in behavioural and eye-tracking studies with infants in the context of the GALA project.
+- Developing and maintaining the code base of the NeuroDevCo research group.
+
+
+*October 2019 -- March 2024*
+
+**Pre-doctoral researcher**; Speech Acquisition and Perception (SAP) research group, Center for Brain and Cognition; Universitat Pompeu Fabra.
+
+- *Funding*: FPI 2019 (PRE2019-088165) financed by the Spanish Ministry of Science Innovation and Universities (MCIU), Spanish Research Agency (AEI) and the European Regional Development Fund (ERDF).
+- Investigated how the phonological similarity between the languages bilingual infants and toldlers are learning impacts how they acquired new words, and how they recognise familiar words in auditory tasks.
+- Collaborated with the Oxford Babylab (Dr. Serene Siow and Prof. Kim Plunkett), in which we run the same experimental series in Barcelona, including infants learning two more similar languages (Catalan and Spanish, in Barcelona) and two more distant languages (English, Spanish).
+- Used a combination of eye-tracking experimental techniques, questionnaires, and computational modelling.
+
+
+# Education
+
+*September 2025*
+
+**Research Stay**: Padova Neuroscience Center (PNC), Università di Padova (Padova, Italy)
+
+- *Supervisor*: Prof. Judit Gervain
+
+*May 2025 -- July 2025*
+
+**Research Stay**: Center for Brain and Cognitive Development (CBCD); Birkbeck, University of London (London, United Kingdom)
+
+- *Supervisor*: Prof. Emily Jones
+
+*October 2018 -- March 2024*
+
+**PhD, Biomedicine**; Universitat Pompeu Fabra (Barcelona, Spain)
+
+- *Supervisor*: Prof. Núria Sebastian-Galles.
+- *Thesis dissertation*: *Bilingual Insights into the Initial Lexicon: The Role of Cognates in Word Acquisition*. [{{< fa link >}}](https://www.tesisenred.net/handle/10803/690593) [{{< fa brands github >}}](https://github.com/gongcastro/translation-elicitation)(https://github.com/gongcastro/thesis) 
+
+*October 2017 -- July 2018*
+
+**MSc, Neurosciences**; University of Barcelona (Barcelona, Spain).
+
+- *Masters's dissertation*: Phonemic Contrast Perception: A Segmentation Study on Monolingual and Bilingual Infants
+- *Supervisors*: Prof. Núria Sebastian-Galles and Dr. Chiara Santolin.
+
+*September 2013 -- July 2017*
+
+**BSc, Psychology**; University of Oviedo (Oviedo, Spain).
+
+- *Bachelor's dissertation*: Effects of Environmental Enrichment on Attention, Spatial Reference Memory, and Cytochrome C Oxidase Activity
+- *Supervisors*: Prof. Azucena Begega and Prof. Marcelino Cuesta.
+
+# Research outputs
+
+## Articles and preprints
+
+* [*Preprint*] **Garcia-Castro, G.**, Siow, S., Plunkett, K., & Sebastian-Galles, N. (2025). The role of cognateness in native spoken word recognition. [{{< ai ai-psyarxiv >}}](https://osf.io/preprints/psyarxiv/7k3ga_v1) [{{< fa brands github >}}](https://github.com/gongcastro/translation-elicitation) [{{< ai ai-osf >}}](https://osf.io/9fjxm/) [{{< fa brands docker >}}](https://hub.docker.com/repository/docker/gongcastro/translation-elicitation/general) [{{< ai ai-doi >}}](10.31234/osf.io/7k3ga_v1) 
+
+* **Garcia‐Castro, G.**, Avila‐Varela, D. S., Castillejo, I., & Sebastian‐Galles, N. (2025). Cognate beginnings to bilingual lexical acquisition. Child Development, 96(1), 286-300. [{{< fa link >}}](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.14170) [{{< ai ai-psyarxiv >}}](https://osf.io/preprints/psyarxiv/dxsmz_v1) [{{< fa brands github >}}](https://github.com/gongcastro/cognate-beginnings) [{{< ai ai-osf >}}](https://https://osf.io/hy984/) [{{< fa brands docker >}}](https://hub.docker.com/repository/docker/gongcastro/cognate-beginnings/general) [{{< ai ai-doi >}}](https://doi.org/10.1111/cdev.14170)
+
+* Santolin, C., **García-Castro, G.**, Zettersten, M., Sebastian-Galles, N., Saffran, J. (2020). Experience with research paradigms relates to infants' direction of preference. Infancy, 00, 1–8. [{{< fa link >}}](https://onlinelibrary.wiley.com/doi/10.1111/infa.12372) [{{< ai ai-osf >}}](https://https://osf.io/g95ub/) [{{< ai ai-psyarxiv >}}](https://psyarxiv.com/xgvbh/) [{{< fa brands github >}}](https://github.com/gongcastro/Flip) [{{< ai ai-doi >}}](https://doi.org/10.1111/infa.12372)
+
+* Sampedro-Piquero, P., Álvarez-Suárez, P., Moreno-Fernández, R., **García-Castro, G.**, Cuesta, M., Begega, A. (2018). Environmental enrichment results in both brain connectivity efficiency and selective improvement in different behavioral tasks. Neuroscience, 388, 374-383. [{{< fa link >}}](https://www.sciencedirect.com/science/article/abs/pii/S0306452218305116) [{{< ai ai-doi >}}](https://doi.org/10.1016/j.neuroscience.2018.07.036)
+
+## Conference presentations
+
+* **Garcia-Castro, G.**, Alarcón Allen, A. Santolin, C. (June, 2025). Maximal Onset Principle: a mechanism for detecting syllables in newborns? Poster accepted at the *Workshop in Infant Language Development* (San Sebastian/Donostia, Spain).
+
+* **Garcia-Castro, G.**, Sebastian-Galles, N., Santolin, C. (July, 2024). Modelling the role of sonority in the representation of syllable structures. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom). [{{< fa link >}}](https://infantstudies.org/wp-content/uploads/2024/07/ICIS-2024-Abstract-Book-V3.pdf) [{{< fa brands github >}}](https://github.com/gongcastro/icis-2024-syllable) 
+
+* **Garcia‐Castro, G.**, Avila‐Varela, D. S., Castillejo, I., Sebastian‐Galles, N. (November, 2023). Investigating early language acquisition with R: A reproducible workflow with formR, Shiny and Stan. *II Congreso de R y XIII Jornadas de usuarios de R* (Edimburgh, United Kingdom). [{{< fa link >}}](https://eventum.upf.edu/101896/programme/ii-conference-of-r-and-xiii-workshop-for-r-users.html) [{{< fa brands github >}}](https://github.com/gongcastro/confr-2023-bvq)
+
+* **Garcia‐Castro, G.**, Avila‐Varela, D. S., Castillejo, I., & Sebastian‐Galles, N. (June, 2023). Cognateness, frequency, and vocabulary size: An interactive account of bilingual lexical acquisition. Oral presentation at the *International Symposium of Psycholinguistics (ISP)* (Vitoria, Spain). [{{< fa link >}}](https://www.ehu.eus/documents/37180379/44153066/XVI-ISP2023_BOOK+OF+ABSTRACTS.pdf/) [{{< fa brands github >}}](https://github.com/gongcastro/isp-2023-trajectories)
+
+* Siow, S., Guillen, N., Lepadatu, I., **Garcia-Castro, G.**, Avila-Varela, D., Sebastian-Galles, N., Plunkett, K. (November, 2022). An alternative approach to defining cross-linguistic phonological similarity using a model of monolingual speech recognition. *Proceedings of the 46th annual Boston University Conference on Language Development*. [{{< fa link >}}](http://www.lingref.com/bucld/46/BUCLD46-56.pdf)
+
+* Siow, S., Guillen, N., Lepadatu, I., **Garcia-Castro, G.**, Avila-Varela, D., Sebastian-Galles, N., Plunkett, K. (July, 2022). A longitudinal exploration of bilingual toddler's processing of cognates. Presented at the *International Congress on Infant Studies*. [{{< fa link >}}](https://infantstudies.org/wp-content/uploads/2022/07/ICIS-2022-Abstract-ProceedingsJuly07.pdf)
+
+* **Garcia-Castro, G.**, Siow, S., Lepadatu, I., Guillen, N., Avila-Varela, D. S., Sebastian-Galles, N., Plunkett, K. (June, 2022). The emergence of inhibitory links in the developing lexicon: insights from bilingual participants. Poster presented at the *Workshop in Infant Language Development* (San Sebastián/Donostia, Spain). [{{< fa link >}}](https://www.bcbl.eu/events/files/galeria/files/wild/Bookofabstracts.pdf)
+
+* Zacharaki, K. E., **Garcia-Castro, G.**, Sebastian-Galles, N. (June, 2022). Selective attention to the mouth of signing faces. Poster presented at the *Workshop in Infant Language Development* (San Sebastián/Donostia, Spain). [{{< fa link >}}](https://www.bcbl.eu/events/files/galeria/files/wild/Bookofabstracts.pdf)
+
+* **Garcia-Castro, G.**, Franco-Martínez, A., Rodríguez-Prada, C., Castillejo, I., Sebastian-Galles, N. (June, 2022). Estimando curvas de adquisición léxica en la infancia mediante un modelo de bayesiano de TRI. Presented at the *XVII Congreso de Metodología de las Ciencias Sociales y de la Salud*. [{{< fa link >}}](https://eventos.unizar.es/file_manager/getFile/118143.html)
+
+* Siow, S., Guillen, N., Lepadatu, I., **Garcia-Castro, G.**, Avila-Varela, D., Sebastian-Galles, N., Plunkett, K. (November, 2021). A study of linguistic distance and infant vocabulary trajectories using bilingual CDIs of English and one additional language. Presented at the *Boston University Conference in Language Development*, held online (Boston, United States).
+
+* Siow, S., **Garcia-Castro, G.**, Sebastian-Galles, N., Plunkett, K. (September, 2021). An alternative approach to defining cross-linguistic phonological similarity using a model of monolingual speech recognition. Presentation at the *Architectures and Mechanisms for Language Processing* conference, held online (Paris, France). [{{< fa link >}}](https://amlap2021.github.io/program/23.pdf)
+
+* Siow, S., Guillen, N., Lepadatu, I., **Garcia-Castro, G.**, Avila-Varela, D. S., Sebastian-Galles, N., Plunkett, K. (August, 2021). A study of linguistic distance and infant vocabulary trajectories using bilingual CDIs of English and one additional language. Presentation at the *Lancaster Conference on Infant and Early Child Development*, held online (Lancaster, United Kingdom).
+
+* **Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N., Plunkett, K. (August, 2021). The impact of cognateness on bilingual lexical access: a longitudinal priming study. Poster presented at the *Lancaster Conference on Infant and Early Child Development*, held online (Lancaster, United Kingdom).
+
+* **Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, Kim (June, 2021). The role of cognateness in nonnative spoken word recognition. Poster presented at the *XI International Symposium of Psycholinguistics* (Madrid, Spain, held online).
+
+* **Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N. and Plunkett, Kim (July, 2020). The role of lexical similarity on bilingual parallel activation: A priming study in toddlers. Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+
+* **Garcia-Castro, G.**, Avila-Varela, D. S., and Sebastian-Galles, N. (July, 2020). Does phonological overlap across translation equivalents predict earlier age of acquisition? Poster presented at the *International Congress on Infant Studies* (Edimburgh, United Kingdom, held online).
+
+* Siow, S., **Garcia-Castro, G.**, Sebastian-Galles, N., and Plunkett, K. (August, 2019). The impact of phonology (cognateness) on the bilingual lexicon: Parallel cross-language phonological priming. Poster presented at the *Lancaster Conference on Infant and Early Child Development* (Lancaster, United Kingdom).
+
+* **Garcia-Castro, G.**, Marimon, M., Santolin, C., and Sebastian-Galles, N. (June, 2019). Encoding new word forms when contrastive phonemes are interchanged: A preliminary study on 8-month-old infants. Poster presented at the *Workshop in Infant Language Development* (Potsdam, Germany). [{{< fa link >}}](https://doi.org/10.17605/osf.io/gykuh)
+
+* **García-Castro, G.**, Álvarez-Suárez, P., García-Abad, N., Cuesta, M., and Begega, A. (June, 2017). Pro-cognitive effects of environmental enrichment on attention and spatial memory: hippocampal metabolic activity in a Wistar rat model. Poster presented at the *4th International Congress on Health and Aging Research* (Murcia, Spain)
+
+* García-Abad, N., Santirso, M., **García-Castro, G.**, and Álvarez-Suárez, P. (June, 2017). Efectos del omega-3 en las redes implicadas en la memoria de trabajo espacial en ratas Wistar. Poster presented at the *3rd National Congress of Psychology* (Oviedo, Spain)
+
+## Invited talks
+
+* **Garcia-Castro, G.**, Santolin, C. (September, 2024). Parallel activation and the developing bilingual lexicon: a longitudinal study on word recognition. Talk given at the Padova Neuroscience Center (PNC), Università di Padova (Padova, Italy). [{{< fa brands github >}}](https://github.com/gongcastro/padova-2024-gala)
+
+* **Garcia-Castro, G.**, Sebastian-Galles, N., Santolin, C. (April, 2024). Using RNNs to model syllabic structure discrimination. Talk given at the Center for Brain and Cognitive Development, Birkbeck University, University of London (London, United Kindgom). [{{< fa brands github >}}](https://github.com/gongcastro/cbcd-2024-syllann)
+
+* **Garcia-Castro, G.**, Siow, S., Sebastian-Galles, N., and Plunkett, K. (March, 2022). Mechanisms for parsing speech into syllables in early infancy. Talk given at the Psycholinguistics Coffee (University of Edinburgh, held online). [{{< fa link >}}](https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2021-22/)
+
+* **Garcia-Castro, G.**, Siow, S., Lepadatu, I., Guillen, N., Avila-Varela, D., Sebastian-Galles, N. y Plunkett, K. (January 2022). Parallel activation and the developing bilingual lexicon: a longitudinal study on word recognition. Talk given at the LACRE research group (Cardiff University, held online)
+
+## Scientific dissemination
+
+* Zacharaki, K., **García-Castro, G.** (2019, October). "Descubriendo la mente de los bebés" Talk presented at 13a Festa de la Ciència, Barcelona, Spain.
+
+* **García-Castro, G.**, Avila-Varela (2019, October). "Estudiando la mente de los bebés: Desde el lenguaje hasta la lógica" Talk presented at Centre Cívic, Barcelona, Spain.
+
+## Software
+
+* **Garcia-Castro, G.** (2025). `babylab-redcap`: A graphical interface to the REDCap database of the SJD Babylab implemented in Python Flask. [{{< fa brands github >}}](https://github.com/NeuroDevCo/babylab-redcap) [{{< fa brands python >}}](https://pypi.org/project/babylab/)
+
+* **Garcia-Castro, G.** (2025). `pymbrola`: A Python front-end for the MBROLA speech synthesizer. [{{< fa brands github >}}](https://github.com/NeuroDevCo/pymbrola) [{{< fa brands python >}}](https://pypi.org/project/mbrola/)
+
+* **Garcia-Castro, G.**, Ávila-Varela, D. S., Sebastian-Galles, N. (2023). `bvq`: Barcelona Vocabulary Questionnaire Database and Helper Functions. [{{< fa link >}}](https://gongcastro.github.io/bvq) [{{< fa brands github >}}](https://github.com/gongcastro/bvq/) [{{< fa brands r-project >}}](https://gongcastro.r-universe.dev/bvq)
+
+## Repositories
+
+* **García-Castro, G.**, Santolin, C., Marimon, M., and Sebastian-Galles, N. (2019, October 22th). Segmentation: Catalan and Spanish natural speech segmentation at 8 months of age. [{{< fa link >}}](https://doi.org/10.17605/osf.io/42gup)
+
+* Santolin, C., **García-Castro, G.**, Zettersten, M., Sebastian-Galles, N., & Saffran, J. (2020, March 5). Flip: Experience with research paradigms relates to infants’ direction of preference. [{{< fa link >}}](https://doi.org/10.17605/osf.io/g95ub)
+ 
+# Others
+
+## Animal research
+
+* Research Staff Certificate for animal research, issued on 15/05/2018 by the *Direcció General de Polítiques Ambientals i Medi Natural*.
+
+## Languages
+
+| Language | Level  |
+|----------|--------|
+| Spanish  | Native |
+| English  | C1     |
+| French   | C1     |
+| Catalan  | B2     |
+
+## Short courses
+
+* **Data Science: Multiple imputation in practice** (August, 2018). Utrecht Summer School, Utrecht University. Introduction to Multiple Imputation as a powerful tool for dealing with missing data in experimental studies.
+
+* **Data Science: Statistical Programming with R** (August, 2018). Utrecht Summer School, Utrecht University.
+
+* **Introduction to Neuroscience: From Molecule to Behavior** (August, 2016), Radboud Summer School, Radboud University Nijmegen. Hands-on training at research labs of the Donders Institute for Brain and Cognition.
+
+* **How to Improve the Quality and Translatability of Preclinical Animal Studies** (August, 2016). Radboud Summer School, Radboud University Nijmegen. Course organized by SYRCLE institute, Radboud University Nijmegen and Radboud University Medical Centre. Theory and hands-on experience on Systematic Reviews and Meta-Analysis in preclinical animal studies. Overview of the main software available to conduct a Meta-Analysis and basic formation on academic reading and writing.
