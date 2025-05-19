@@ -1,0 +1,6 @@
+format:
+  typst:
+    include-in-header:
+        - text: |
+            #show link: set text(fill: rgb(52, 73, 235))
+output-file: cv.pdf
