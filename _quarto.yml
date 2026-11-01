@@ -1,6 +1,21 @@
-format:
-  typst:
-    include-in-header:
-        - text: |
-            #show link: set text(fill: rgb(52, 73, 235))
+format: pdf
+
+include-in-header:
+  text: |
+    \newcommand{\hangpara}{\hangindent=2em\hangafter=1}
 output-file: cv.pdf
+keep-typ: true
+
+title: Gonzalo García-Castro
+date: last-modified
+date-modified: full
+linkcolor: "#2fedbe"
+abstract-title: ""
+abstract: |
+    **Post-doctoral researcher**, *Institut de Recerca Sant Joan de Déu*.
+    
+    I am a cognitive scientist interested in the application of Bayesian modelling in the investigation of early language acquisition and its evolutionary roots. I am currently working as a post-doctoral researcher at the Institut de Rercerca Sant Joan de Déu (Barcelona, Spain), where I use brain imaging (fNIRS), behavioural, and computational techniques to study how newborns, infants, and non-human animals (Long-Evans rats) perceive and process speech.
+
+monofont: "Fira Code Nerd Font"
+mainfont: "Libertinus Serif"
+sansfont: "Libertinus Serif"
